@@ -1,0 +1,13 @@
+6
+Admin_Sky
+1998 0 61
+test6
+1180 3 305
+player1
+820 3 247
+test3
+520 3 138
+thanhluan
+470 2 199
+catrom
+230 2 152
